@@ -1,7 +1,5 @@
-github_users:
-  - torvalds
-  - alshedivat
-
+# github_users:
+#   - PNatarajan123
 github_repos:
   - alshedivat/al-folio
   - twbs/bootstrap
