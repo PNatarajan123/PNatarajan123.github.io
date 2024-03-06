@@ -4,8 +4,8 @@ title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 subtitle: >
-  Contact Me: 
-  <a href='mailto:praveennatarajan123@gmail.com' title='Email'>praveennatarajan123@gmail.com</a> | 
+  Relevant Links: 
+  <a href='mailto:praveennatarajan123@gmail.com' title='Email'>Email</a> | 
   <a href='https://github.com/PNatarajan123' title='GitHub'>GitHub</a> | 
   <a href='https://linkedin.com/in/praveennatarajan123' title='LinkedIn'>LinkedIn</a>
 
