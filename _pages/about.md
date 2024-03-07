@@ -22,10 +22,8 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Testing123
+Welcome to my digital realm! I'm Praveen Natarajan, a Computer Engineering student at the [University of Illinois Urbana-Champaign](https://grainger.illinois.edu/). On campus, I am deeply engrossed in technology, data, and solving complex problems. My academic and project work spans Data Structures, Autonomous Vehicles, and Digital Systems, demonstrating my diverse skill set in high level languages like Python, Java, and C++ as well as low level languages like C, SystemVerilog, and LC3 Assembly.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I've contributed significantly to practical projects, including enhancing autonomous navigation algorithms, leading computer vision efforts in robotics, and securing top national honors in cybersecurity competitions. My proficiency in full-stack development and familiarity with collaborative tools like GitHub and VS Code further empower me to turn innovative ideas into reality.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to explore my portfolio, dive into my project showcases, and reach out if my skills and experiences align with your needs or spark an interest. 
