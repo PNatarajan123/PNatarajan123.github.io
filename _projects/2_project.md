@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 16 Bit-Serial Computer
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description: 16 bit Little Computer 3 processor built with SystemVerilog
+img: assets/img/SpartanFPGA.jpeg
 importance: 2
 category: academic
 giscus_comments: false
