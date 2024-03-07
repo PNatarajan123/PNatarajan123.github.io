@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Self-Driving Polaris GEM
+description: Autonomous vehicle lane detection and waypoint navigation project
+img: assets/img/GEM.jpeg
 importance: 1
 category: academic
 related_publications: false
