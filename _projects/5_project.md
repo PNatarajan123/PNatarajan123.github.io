@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+title: People Counter
+description: Counter keeping track of how many people enter and exit a room
+img: /assets/img/OpenCVcounter.jpeg
+redirect: https://github.com/PNatarajan123/PeopleCounter
+importance: 5
 category: fun
 ---
 
