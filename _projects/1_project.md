@@ -14,7 +14,7 @@ Below is a demonstration of autonomous algorithms
 applied in both real world and simulated scenarios.
 
 ## Lane Detection
-The lane detection is shown through 2 different views. The rviz view on the bottom is sobel edge detection gradient threshold filtering combined with a color filter that filters in common white and yellow lane markings. The view on the top of the rviz screen is the birds eye view. This view is created by taking in a binary image and gradient threshold. Then, the binary image is put though a 3x3 transformation matrix using the [cv2.getPerspectiveTransform()](https://docs.opencv.org/4.x/da/d54/group__imgproc__transform.html) function.
+The lane detection is shown through 2 different views. The rviz view on the top is sobel edge detection gradient threshold filtering combined with a color filter that filters in common white and yellow lane markings. The view on the bottom of the rviz screen is the birds eye view. This view is created by taking in a binary image and gradient threshold. Then, the binary image is put though a 3x3 transformation matrix using the [cv2.getPerspectiveTransform()](https://docs.opencv.org/4.x/da/d54/group__imgproc__transform.html) function.
 
 
 <div class="embed-responsive embed-responsive-16by9">
