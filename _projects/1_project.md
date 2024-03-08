@@ -8,6 +8,8 @@ category: academic
 related_publications: false
 ---
 
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
 Below is a demonstration of autonomous algorithms
 applied in both real world and simulated scenarios.
 
