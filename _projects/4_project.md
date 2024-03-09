@@ -7,11 +7,11 @@ importance: 4
 category: fun
 ---
 
-According to the rule book, is against the rules to open source team made scripts for the CyberPatriot Competition.\
+According to the rule book, is against the rules to open source team made scripts for the CyberPatriot Competition.
 
-Section 4009.5: "Publicly posting, distributing,or otherwise publicizing scripts, software,or other resources that were created for the CyberPatriot competition or events involving CyberPatriot software is prohibited."\
+**Section 4009.5: "Publicly posting, distributing,or otherwise publicizing scripts, software,or other resources that were created for the CyberPatriot competition or events involving CyberPatriot software is prohibited."**
 
-Therefore, I will list the standings for all CyberPatriot and Capture the Flag competitions I have participated in.\
+Therefore, I will list the standings for all CyberPatriot and Capture the Flag competitions I have participated in.
 
 
 <div class="row">
