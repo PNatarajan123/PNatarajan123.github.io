@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cybersecurity Accomplishments
+title: Cybersecurity Awards
 description: Final team standings for CyberPatriot and Capture the Flag competitions
 img: assets/img/CyberPatriot_Logo.jpeg
 importance: 4
