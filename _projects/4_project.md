@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Cybersecurity Accomplishments
+description: Final team standings for CyberPatriot and Capture the Flag competitions
+img: assets/img/CyberPatriot_Logo.jpeg
 importance: 4
 category: fun
 ---
