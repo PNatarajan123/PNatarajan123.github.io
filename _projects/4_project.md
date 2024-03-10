@@ -2,46 +2,37 @@
 layout: page
 title: Cybersecurity Awards
 description: Final team standings for CyberPatriot and Capture the Flag competitions
-img: assets/img/CyberPatriot_Logo.jpeg
+img: assets/img/CyberSecLogo.jpeg
 importance: 4
 category: fun
 ---
 
-According to the rule book, it is against the rules to open source team made scripts for the CyberPatriot Competition.
+According to the rule book, is against the rules to open source team made scripts for the CyberPatriot Competition.
 
-**Section 4009.5:** *"Publicly posting, distributing, or otherwise publicizing scripts, software,or other resources that were created for the CyberPatriot competition or events involving CyberPatriot software is prohibited."*
+**Section 4009.5: "Publicly posting, distributing,or otherwise publicizing scripts, software,or other resources that were created for the CyberPatriot competition or events involving CyberPatriot software is prohibited."**
 
 Therefore, I will list the standings for all CyberPatriot and Capture the Flag competitions I have participated in.
 
-<div style="margin-top: 20px; margin-bottom: 20px;">
 
 ## Air Force Association's CyberPatriot Competitions
 
-### <span style="color: #0073e6;">CyberPatriot XIV Season</span>
-<ul>
-  <li><b>Semifinal Round</b> (5,254 Teams) - <b>12th Place</b></li>
-  <li><b>State Round</b> (5,254 Teams) - <b>9th Place</b></li>
-  <li><b>Round 2</b> (5,254 Teams) - <b>9th Place</b></li>
-  <li><b>Round 1</b> (5,254 Teams) - <b>10th Place</b></li>
-</ul>
+### CyberPatriot XIV Season
+- **Semifinal Round** (5,254 Teams) - **12th Place**
+- **State Round** (5,254 Teams) - **9th Place**
+- **Round 2** (5,254 Teams) - **9th Place**
+- **Round 1** (5,254 Teams) - **10th Place**
 
-### <span style="color: #0073e6;">CyberPatriot XIII Season</span>
-<ul>
-  <li><b>Semifinal Round</b> (5,254 Teams)- <b>20th Place</b></li>
-  <li><b>State Round</b> (4,801 Teams) - <b>12th Place</b></li>
-  <li><b>Round 2</b> (4,801 Teams) - <b>24th Place</b></li>
-  <li><b>Round 1</b> (4,801 Teams) - <b>1st Place</b></li>
-</ul>
+### CyberPatriot XIII Season
+- **Semifinal Round** (5,254 Teams)- **20th Place**
+- **State Round** (4,801 Teams) - **12th Place**
+- **Round 2** (4,801 Teams) - **24th Place**
+- **Round 1** (4,801 Teams) - **1st Place**
 
 ## Capture The Flag (CTF) Competitions
-
-<ul>
-  <li><b>2021 National Cyber Scholarship</b> (5,117 Teams) - <b>Cyber Scholar (top 10%)</b></li>
-  <li><b>2020 California Cyber Innovation Challenge</b> (43 teams) - <b>4th Place</b></li>
-  <li><b>2020 TG Hack</b> (1,076 teams) - <b>88th Place</b></li>
-  <li><b>2020 Fireshell CTF</b> (308 teams) - <b>113th Place</b></li>
-  <li><b>2020 WPI CTF</b> (905 teams) - <b>127th Place</b></li>
-  <li><b>2020 AUCTF</b> (1,184 teams) - <b>187th Place</b></li>
-</ul>
-
-</div>
+ 
+- **2021 National Cyber Scholarship** (5,117 Teams) - **Cyber Scholar (top 10%)**
+- **2020 California Cyber Innovation Challenge** (43 teams) - **4th Place**
+- **2020 TG Hack** (1,076 teams) - **88th Place**
+- **2020 Fireshell CTF** (308 teams) - **113th Place**
+- **2020 WPI CTF** (905 teams) - **127th Place**
+- **2020 AUCTF** (1,184 teams) - **187th Place**
