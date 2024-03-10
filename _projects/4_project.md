@@ -20,10 +20,10 @@ Therefore, I will list the standings for all CyberPatriot and Capture the Flag c
 - **Semifinal Round** (5,254 Teams) - **12th Place**
 - **State Round** (5,254 Teams) - **9th Place**
 - **Round 2** (5,254 Teams) - **9th Place**
-- **Round 1** (5,254 Teams) - **10th Place**
+- **Round 1** (5,254 Teams) - **Tied 1st Place**
 
 ### CyberPatriot XIII Season
-- **Season Award** - **State Award**
+- **Semifinal Round** (5,254 Teams) - **State Award**
 - **Round 3** (4,801 Teams) - **3rd Place**
 - **Round 2** (4,801 Teams) - **10th Place**
 - **Round 1** (4,801 Teams) - **32nd Place**
