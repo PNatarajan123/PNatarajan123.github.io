@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: DocuGPT
+description: GPT based autocompete for Google Docs
+img: /assets/img/DocuGPT.png
+redirect: https://github.com/PNatarajan123/DocuGPT
 importance: 6
 category: fun
 ---

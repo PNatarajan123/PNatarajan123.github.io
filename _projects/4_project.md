@@ -29,7 +29,6 @@ Therefore, I will list the standings for all CyberPatriot and Capture the Flag c
 - **Round 1** (4,801 Teams) - **1st Place**
 
 ## Capture The Flag (CTF) Competitions
- 
 - **2021 National Cyber Scholarship** (5,117 Teams) - **Cyber Scholar (top 10%)**
 - **2020 California Cyber Innovation Challenge** (43 teams) - **4th Place**
 - **2020 TG Hack** (1,076 teams) - **88th Place**
