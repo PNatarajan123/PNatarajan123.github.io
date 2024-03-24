@@ -58,6 +58,16 @@ where:
     Waypoint Navigation in Gazebo Simulator
 </div>
 
+## Monte Carlo Localization
+In robotics, it is very difficult to determine where a robot is in a certain space. Monte Carlo Localization (MCL), also known as particle filter localization, offers a solution to this challenge by using a probabilistic approach to determine a robot's position and orientation within a known map. As the robot moves, these particles are shifted based on the robot's motion model, incorporating uncertainty to account for movement inaccuracies. Sensor data is then used to update the likelihood of each particle's accuracy, with those matching more closely to the real-world data being deemed more probable. This step is followed by resampling, where particles with higher likelihoods are chosen to represent the robot's new estimated state, allowing the algorithm to focus on the most probable locations. Below, the yellow turtle represents the estimated robot location, and the green turtle represents the actual robot location.
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe src="https://www.youtube.com/embed/SYovdYsZSRI?si=sMoiSOaJ4qCYmbK2" class="embed-responsive-item" allowfullscreen></iframe>
+</div>
+<div class="caption text-center">
+    Monte Carlo Localization with 8 Directional Measurement
+</div>
+
 For more information on how to run these simulations, check out the source code below:
 
 {% if site.data.repositories.github_repos %}
