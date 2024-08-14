@@ -70,7 +70,7 @@ In robotics, it is very difficult to determine where a robot is in a certain spa
 
 For more information on how to run these simulations, check out the source code below:
 
-{% if site.data.repositories.github_repos %}
+<!-- {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex justify-content-center" style="width: 100%;">
   {% for repo in site.data.repositories.github_repos %}
     {% if repo == "PNatarajan123/AutonomousPolarisGEM" %}
@@ -79,4 +79,4 @@ For more information on how to run these simulations, check out the source code 
     {% endif %}
   {% endfor %}
 </div>
-{% endif %}
+{% endif %} -->
