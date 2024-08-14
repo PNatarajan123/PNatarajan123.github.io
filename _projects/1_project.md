@@ -68,7 +68,7 @@ In robotics, it is very difficult to determine where a robot is in a certain spa
     Monte Carlo Localization with 8 Directional Measurement
 </div>
 
-For more information on how to run these simulations, check out the source code below:
+<!-- For more information on how to run these simulations, check out the source code below: -->
 
 <!-- {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex justify-content-center" style="width: 100%;">
