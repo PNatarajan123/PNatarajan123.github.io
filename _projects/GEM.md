@@ -17,11 +17,27 @@ applied in both real world and simulated scenarios.
 The following is my project using an F1tenth car with an NVidia Jetson to navigate a track while recognizing traffic signs and reacting accordingly.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dzMm5iM2xmYjkyZnlzYnphOHl4MDFpZjVyN2J4ODBzMjJ4ODNlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2P09sX8uPMy2V3T3XC/giphy.gif" class="embed-responsive-item" allowFullScreen></iframe>
+    <iframe src="https://giphy.com/embed/daSJOod2ct26WRqpwN" class="embed-responsive-item" allowFullScreen></iframe>
 </div>
 <div class="caption">
-    Line Following using PID Controller on F1Tenth Car
+    F1Tenth Car Following Part of Track
 </div>
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe src="https://giphy.com/embed/xzFpB8xddj2NsKOb1Q" class="embed-responsive-item" allowFullScreen></iframe>
+</div>
+<div class="caption">
+    RViz Window of F1Tenth Car Following Track
+</div>
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe src="https://giphy.com/embed/DNrANVVQ9sycg1l40q" class="embed-responsive-item" allowFullScreen></iframe>
+</div>
+<div class="caption">
+    F1Tenth Stop Sign Detection
+</div>
+
+This project uses some of the below principles tested on a simulated GEM vehicle.
 
 ## Lane Detection
 The lane detection is shown through 2 different views. The rviz view on the top is sobel edge detection gradient threshold filtering combined with a color filter that filters in common white and yellow lane markings. The view on the bottom of the rviz screen is the birds eye view. This view is created by taking in a binary image and gradient threshold. Then, the binary image is put though a 3x3 transformation matrix using the [cv2.getPerspectiveTransform()](https://docs.opencv.org/4.x/da/d54/group__imgproc__transform.html) function.
