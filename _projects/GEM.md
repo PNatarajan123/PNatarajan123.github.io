@@ -27,7 +27,7 @@ The following is my project using an F1tenth car with an NVidia Jetson to naviga
     <iframe src="https://giphy.com/embed/xzFpB8xddj2NsKOb1Q" class="embed-responsive-item" allowFullScreen></iframe>
 </div>
 <div class="caption">
-    RViz Window of F1Tenth Car Following Track
+    RViz Window of F1Tenth Car Following Track Using PID Controller
 </div>
 
 <div class="embed-responsive embed-responsive-16by9">
