@@ -20,14 +20,14 @@ The following is my project using an F1tenth car with an NVidia Jetson to naviga
     <iframe src="https://giphy.com/embed/daSJOod2ct26WRqpwN" class="embed-responsive-item" allowFullScreen></iframe>
 </div>
 <div class="caption">
-    F1Tenth Car Following Part of Track
+    F1Tenth Car Following Part of Track Using PID Controller
 </div>
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe src="https://giphy.com/embed/xzFpB8xddj2NsKOb1Q" class="embed-responsive-item" allowFullScreen></iframe>
 </div>
 <div class="caption">
-    RViz Window of F1Tenth Car Following Track Using PID Controller
+    RViz Window of F1Tenth Car Following Track
 </div>
 
 <div class="embed-responsive embed-responsive-16by9">
