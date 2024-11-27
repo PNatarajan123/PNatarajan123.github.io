@@ -10,8 +10,18 @@ related_publications: false
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-Below is a demonstration of autonomous algorithms
+Below is a demonstration of autonomous vehicle systems algorithms
 applied in both real world and simulated scenarios.
+
+## NVIDIA Jetson F1Tenth Car Lane Following and Traffic Sign Detection
+The following is my project using an F1tenth car with an NVidia Jetson to navigate a track while recognizing traffic signs and reacting accordingly.
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dzMm5iM2xmYjkyZnlzYnphOHl4MDFpZjVyN2J4ODBzMjJ4ODNlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2P09sX8uPMy2V3T3XC/giphy.gif" class="embed-responsive-item" allowFullScreen></iframe>
+</div>
+<div class="caption">
+    Line Following using PID Controller on F1Tenth Car
+</div>
 
 ## Lane Detection
 The lane detection is shown through 2 different views. The rviz view on the top is sobel edge detection gradient threshold filtering combined with a color filter that filters in common white and yellow lane markings. The view on the bottom of the rviz screen is the birds eye view. This view is created by taking in a binary image and gradient threshold. Then, the binary image is put though a 3x3 transformation matrix using the [cv2.getPerspectiveTransform()](https://docs.opencv.org/4.x/da/d54/group__imgproc__transform.html) function.
