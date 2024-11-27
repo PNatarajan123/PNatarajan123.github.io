@@ -13,7 +13,7 @@ related_publications: false
 Below is a demonstration of autonomous vehicle systems algorithms
 applied in both real world and simulated scenarios.
 
-## NVIDIA Jetson F1Tenth Car Lane Following and Traffic Sign Detection
+## NVIDIA Jetson F1Tenth Project
 The following is my project using an F1tenth car with an NVidia Jetson to navigate a track while recognizing traffic signs and reacting accordingly.
 
 <div class="embed-responsive embed-responsive-16by9">
