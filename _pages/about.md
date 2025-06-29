@@ -22,4 +22,4 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I'm a 4th year UIUC Computer Engineering student passionate about Machine Learning and Embedded Software Development. I enjoy tackling challenging problems at the intersection of hardware and software design.
+I'm a 4th year UIUC Computer Engineering student passionate about machine learning and embedded software development. I enjoy tackling challenging problems at the intersection of hardware and software design.
