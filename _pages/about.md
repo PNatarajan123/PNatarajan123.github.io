@@ -22,4 +22,4 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I'm a 4th year University of Illinois Urbana-Champaign Computer Engineering student passionate about both software development and hardware design. I enjoy solving complex problems through innovative solutions that bridge the gap between Computer Science and Electrical Engineering.
+I'm a 4th year UIUC Computer Engineering student passionate about both software development and hardware design. I enjoy solving complex problems through innovative solutions that bridge the gap between Computer Science and Electrical Engineering.
